@@ -1,0 +1,47 @@
+.whole-body{
+    background-color: #303030;
+    color:white;
+    padding: 30px;
+}
+
+.box{
+    border:1px solid red;
+}
+.city-card{
+    border: 1px solid #414141;
+    border-radius: 9px;
+    padding: 34.5px;
+    background-image: linear-gradient(180deg, #303030, #414141);
+    margin-bottom: 20px;
+}
+.adigun{
+    padding-left: 290px;
+    padding-right: 290px;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.m{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 4px;
+}
+.n{
+    font-size: 150px;
+    text-align: center;
+}
+.k{
+    text-align: center;
+    /* font-weight: 20; */
+    font-size: 25px;
+}
+.lowerset{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.seyi{
+    margin-top: 50px;
+}
